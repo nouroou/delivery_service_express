@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060938454449",
+    "project_id": "sh-express-transport",
+    "storage_bucket": "sh-express-transport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060938454449:android:5510150b12f3ddc11c1990",
+        "android_client_info": {
+          "package_name": "com.example.sh_express_transport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060938454449-1vimitk85v0v152hb8p23n8480o6ldb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIdPj2fLZSk3gdYRWR_jKTvJcFUPYKbtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060938454449-1vimitk85v0v152hb8p23n8480o6ldb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
